@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>四野流云</title>
+  
+  <subtitle>和光同尘，与时舒卷</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.zhanghc.life/"/>
+  <updated>2020-08-05T03:16:34.424Z</updated>
+  <id>http://www.zhanghc.life/</id>
+  
+  <author>
+    <name>siye</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>把旧文章下架了</title>
+    <link href="http://www.zhanghc.life/2020/07/06/%E6%8A%8A%E6%97%A7%E6%96%87%E7%AB%A0%E9%83%BD%E4%B8%8B%E6%9E%B6%E4%BA%86/"/>
+    <id>http://www.zhanghc.life/2020/07/06/把旧文章都下架了/</id>
+    <published>2020-07-05T16:00:00.000Z</published>
+    <updated>2020-08-05T03:16:34.424Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;众所周知，技术的生命周期越来越短，更新迭代越来越快。&lt;/p&gt;
+&lt;p&gt;刚开始工作使用的部分主流技术，或已被新技术替代，那个时候写的技术文章并没有经过精雕细琢，仅提供解决思路的方向，没花太多的心思，demo也比较少，对于两三年前的技术，实在没有多余的精力去整理。&lt;/p&gt;
+&lt;p&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
