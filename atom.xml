@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.zhanghc.life/"/>
-  <updated>2020-08-14T10:12:57.381Z</updated>
+  <updated>2021-02-01T09:00:44.820Z</updated>
   <id>http://www.zhanghc.life/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>一个简单的文件【打包、上传】自动小脚本</title>
+    <link href="http://www.zhanghc.life/2020/12/14/%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%89%8D%E7%AB%AF%E6%96%87%E4%BB%B6%E6%89%93%E5%8C%85-%E4%B8%8A%E4%BC%A0%E8%84%9A%E6%9C%AC/"/>
+    <id>http://www.zhanghc.life/2020/12/14/一个简单的前端文件打包-上传脚本/</id>
+    <published>2020-12-13T16:00:00.000Z</published>
+    <updated>2021-02-01T09:00:44.820Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前段时间写了一个前端文件上传小脚本，个人开发者或者部分前端人员可能会用到，它完成了打包到服务器的过程。这个脚本使用expect，所以在shell的环境才能使用。&lt;/p&gt;
+&lt;p&gt;1.完成功能步骤：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;npm打包前端工程；&lt;/p&gt;
+&lt;/li&gt;
+&lt;l
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>把旧文章下架了</title>
     <link href="http://www.zhanghc.life/2020/08/14/%E6%8A%8A%E6%97%A7%E6%96%87%E7%AB%A0%E9%83%BD%E4%B8%8B%E6%9E%B6%E4%BA%86/"/>
     <id>http://www.zhanghc.life/2020/08/14/把旧文章都下架了/</id>
     <published>2020-08-13T16:00:00.000Z</published>
-    <updated>2020-08-14T10:12:57.381Z</updated>
+    <updated>2020-08-20T07:17:34.354Z</updated>
     
     <summary type="html">
     
